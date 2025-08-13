@@ -4,7 +4,7 @@ function App() {
 
 
   return (
-   <h1>Hayu</h1>
+   <h1>Hayu is king</h1>
   )
 }
 
