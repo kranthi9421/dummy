@@ -1,6 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import "../App.css";
-import HayuImage from "../assets/hayu.png"; 
+import HayuImage from "../assets/hayu.jpg"; 
 
 function Hayu() {
   const navigate = useNavigate();

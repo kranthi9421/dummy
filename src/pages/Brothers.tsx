@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import Bro from "../assets/bro.png";
+import Bro from "../assets/bro.jpg";
 import { useEffect } from "react";
 
 const Brothers = () => {

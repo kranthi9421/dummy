@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import BuddaImage from "../assets/budda.png";
+import BuddaImage from "../assets/budda.jpg";
 
 const Budda = () => {
   const navigate = useNavigate();
